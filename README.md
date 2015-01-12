@@ -1,2 +1,2 @@
 # awesome-Rat
-All about the remote administrative tools
+All about the remote administration tools
