@@ -16,9 +16,12 @@ All about the remote administration tools
 ```
 
 ## 目录
+* 关于ShellCode的若干前置知识
 * PoisonIvy ShellCode 简析
-* PoisonIvy逆向初步
-
+* PoisonIvy 逆向初步
+* PoisonIvy PeDiy
+* Meterpreter 工作方式简析
+* 剥离Msf与Meterpreter
 
 
 ## 参考
