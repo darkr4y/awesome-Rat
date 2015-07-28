@@ -29,4 +29,4 @@ All about the remote administration tools
 * SecurityBits - http://badishi.com/ 
 * Reverse Engineering Poison Ivy's Injected Code Fragments - http://volatility-labs.blogspot.com/2012/10/reverse-engineering-poison-ivys.html
 * Metasploit Unleashed - http://www.offensive-security.com/metasploit-unleashed
-* RAT Collection - https://github.com/lunde/RATs
+* RAT Sample Collection - https://github.com/lunde/RATs
