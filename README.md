@@ -5,15 +5,26 @@ All about the remote administration tools
 
 ```
 .
-├── index.md
+├── README.md
 ├── attachment
+│   ├── bin
+│   │   └── README.md
+│   └── src
+│       └── README.md
 └── content
     ├── meterpreter
+    │   └── mian.md
     ├── poisonivy
-    │   └── main.md
-    └── communication-lib
+    │   ├── main.md
+    │   └── ...
+    └── ...
 
 ```
+## 说明
+* attachment/bin 目录用于存放收集的远程控制样本
+* attachment/src 目录用于存放收集的远程控制源码
+* content 目录用于存放相关的说明文章
+
 
 ## 目录
 * 关于ShellCode的若干前置知识
